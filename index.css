@@ -1,0 +1,95 @@
+div.container-fluid{
+  padding: 0.5%;
+  margin-left: 4%;
+  margin-right: 2%;
+}
+
+.navbar-brand{
+  font-family: 'Dancing Script', cursive;
+  font-size: 4rem !important;
+  color: beige !important;
+}
+
+nav.navbar{
+  background: transparent;
+  border: none;
+}
+
+body{
+  background: #c31432;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #240b36, #c31432);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #240b36, #c31432); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+
+
+}
+
+div.container{
+  padding-top: 8rem;
+  text-align: center;
+}
+
+img{
+  height:21rem !important;
+  width: 21rem;
+}
+
+.img-circle{
+  border:2.8px solid beige;
+}
+
+.navbar-default .navbar-nav>li>a{
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.9rem;
+  color:#c8c8e0 !important;
+}
+
+.container>h1{
+  color: beige;
+  font-family: 'Alata', sans-serif;
+  padding-bottom: 2.2rem;
+}
+
+p{
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.4rem;
+}
+
+div.links{
+  font-size:2.5rem;
+  margin-top:2.5rem;
+}
+
+.github, .instagram{  
+  background: beige;
+  color: rgb(80, 76, 76);
+  padding:0.5rem;
+  padding-left:0.8rem;
+  padding-right:0.8rem;
+  margin:0.5rem;
+  border-radius: 50%;
+}
+
+.facebook{
+  background: beige;
+  color: rgb(80, 76, 76);
+  padding:0.5rem;
+  padding-left:1.2rem;
+  padding-right:1.2rem;
+  margin:0.5rem;
+  border-radius: 50%;
+}
+
+.github:hover{
+  color: black;
+}
+
+.facebook:hover{
+  color: #254c9e;
+}
+
+.instagram:hover{
+  color: #ee4083;
+}
+
